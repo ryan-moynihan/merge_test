@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 The number of planets in the solar system is eight.
 =======
 The number of planets in the solar system is nine.
+>>>>>>> test/master
+=======
+The number of planets in the solar system is nine or eight, depending on who you talk to.
 >>>>>>> test/master
